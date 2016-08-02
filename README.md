@@ -1,2 +1,9 @@
-# python-learn
-Learning Python records
+# 我的python学习记录
+
+## 基本结构
+	1. 文件编码指定:	
+	```
+	# -*- coding: UTF-8 -*-
+	```
+
+
